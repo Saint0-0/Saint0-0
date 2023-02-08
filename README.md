@@ -1,9 +1,7 @@
 <div align="center">
 
 
-- Hi, I’m Saint
-- Lua Scripter since 2019.
-- Im currently learning js and c#. 
+- ⚔
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/772477144198021180?theme=dark&bg=000000)](https://discord.com/users/772477144198021180)
 
