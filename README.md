@@ -1,14 +1,14 @@
 <div align="center">
 
 
-- ⚔
+- I specialize in Lua and JavaScript programming languages and I am currently available for commissions. You can contact me through email at saint@fbi.ac or on Discord.
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/772477144198021180?theme=dark&bg=000000)](https://discord.com/users/772477144198021180)
 
 </div>
 <h3My accounts;</h3>
 <p align="center">
-   <a href="https://discord.gg/FznRbVA73Y" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+   <a href="https://dsc.gg/SaintX" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
     <a href="https://github.com/Saint0-0" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="https://open.spotify.com/user/jr8j3c626v6kpxsfwxef3cnlg" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
