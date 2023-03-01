@@ -14,7 +14,7 @@
 <a href="https://open.spotify.com/user/jr8j3c626v6kpxsfwxef3cnlg" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 
 <details align="center">
-  <summary style="font-weight: bold; font-size: 18px">Stuff I'm interested in</summary>
+  <summary style="font-weight: bold; font-size: 18px">Stuff I do</summary>
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
