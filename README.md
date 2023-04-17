@@ -1,7 +1,8 @@
 <div align="center">
 
 
-- I specialize in Lua and JavaScript programming languages and I am currently available for commissions. You can contact me through email at saint@fbi.ac or on Discord.
+- Wassup 
+- Email saint@fbi.ac
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/772477144198021180?theme=dark&bg=000000)](https://discord.com/users/772477144198021180)
 
